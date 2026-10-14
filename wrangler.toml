@@ -1,4 +1,4 @@
-name = "sociabuzz-roblox"
+name = "sociabuzz"
 main = "worker.js"
 compatibility_date = "2026-10-01"
 workers_dev = true
@@ -8,5 +8,5 @@ DEBUG_WEBHOOK = "0"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "sociabuzz-roblox"
-database_id = "562198b1-894e-4781-8573-b09d72ec4fc1"
+database_name = "sociabuzz"
+database_id = "e6d1dbbd-fb6e-4078-84ae-2430a32fe532"
